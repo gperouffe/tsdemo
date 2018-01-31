@@ -1,0 +1,25 @@
+Nouveau dossier tsproject
+	Nouveau dossier front
+	Nouveau dossier back
+	Nouveau dossier common
+
+npm install -g @angular/cli
+npm install -g typescript
+
+Dans back
+	npm init
+	npm install express --save
+	npm install @types/express --save-dev
+	npm install sequelize --save
+	npm install reflect-metadata --save
+	npm install sequelize-typescript --save
+	npm install sqlite3 --save
+
+Dans tsproject
+	ng new front --skip-git --skip-test
+
+Creation de src/server.ts
+Creation de src/models/User.ts
+Creation de src/models/Commentaire.ts
+Creation de src/models/Fil.ts
+Creation de tsconfig.json

@@ -1,35 +1,32 @@
 import {Sequelize} from 'sequelize-typescript';
-import {User} from './models/User'
+import {User} from './models/User';
+
+import {UserController} from './controllers/UserController'
 
 import * as http from 'http';
 import * as express from 'express';
- 
+
 const sequelize =  new Sequelize({
-        database: 'forumDB',
-        dialect: 'sqlite',
-        username: 'root',
-        password: '',
-        storage: ':memory:',
-        modelPaths: [__dirname + '/models']
+    database: 'forumDB',
+    dialect: 'sqlite',
+    username: 'root',
+    password: '',
+    storage: ':memory:',
+    modelPaths: [__dirname + '/models']
 });
 
 sequelize.addModels([User]);
 
 sequelize.sync().then(()=>{
-        const bob = User.build({username: 'bob'});
-        bob.save();
+    const bob = User.build({username: 'bob'});
+    bob.save();
+    const alice = User.build({username: 'alice'});
+    alice.save();
 });
 
 const app = express();
 
-app.get('/', (request, response) => {
-        response.statusCode = 200;
-        User.findOne().then(
-                user =>{
-                        response.json(user.toJSON());
-                }
-        )
-    });
+UserController(app);
 
 app.listen(3000);
 console.log("c'est parti");

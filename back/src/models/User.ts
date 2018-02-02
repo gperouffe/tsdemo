@@ -7,7 +7,8 @@ import {
     CreatedAt, 
     UpdatedAt,
     ForeignKey,
-    BelongsTo
+    BelongsTo,
+    NotNull
 } from 'sequelize-typescript';
 import { Commentaire } from './Commentaire';
 

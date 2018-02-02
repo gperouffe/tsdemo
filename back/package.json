@@ -9,6 +9,8 @@
   "author": "Babeau Martin, Perouffe Guillaume",
   "license": "WTFPL",
   "dependencies": {
+    "@types/body-parser": "^1.16.8",
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "reflect-metadata": "^0.1.12",
     "sequelize": "^4.32.2",

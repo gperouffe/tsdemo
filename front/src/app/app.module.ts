@@ -3,6 +3,10 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { HttpModule } from '@angular/http';
+import { CommentaireApiService } from './services/commentaire-api.service';
+import { UserApiService } from './services/user-api.service';
+import { FilApiService } from './services/fil-api.service';
 
 
 @NgModule({
@@ -10,9 +14,14 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpModule
   ],
-  providers: [],
+  providers: [
+    CommentaireApiService,
+    UserApiService,
+    FilApiService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

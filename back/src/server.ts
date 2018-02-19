@@ -1,16 +1,16 @@
 import {Sequelize} from 'sequelize-typescript';
 
 import { User } from './models/User';
-import { Commentaire } from 'src/models/Commentaire';
-import { Fil } from 'src/models/Fil';
+import { Commentaire } from './models/Commentaire';
+import { Fil } from './models/Fil';
 
 import {UserController} from './controllers/UserController'
 
 import * as http from 'http';
 import * as express from 'express';
 import * as bodyParser from 'body-parser';
-import { CommentaireController } from 'src/controllers/CommentaireController';
-import { FilController } from 'src/controllers/FilController';
+import { CommentaireController } from './controllers/CommentaireController';
+import { FilController } from './controllers/FilController';
 
 const sequelize =  new Sequelize({
     database: 'forumDB',
@@ -34,6 +34,13 @@ const app = express();
 
 //Middlewares
 app.use(bodyParser.json());
+
+app.use(function (req, res, next) {
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:4200');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+    next();
+});
 
 //Contrôleurs
 UserController(app);

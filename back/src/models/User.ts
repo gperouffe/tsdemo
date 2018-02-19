@@ -8,12 +8,19 @@ import {
     UpdatedAt,
     ForeignKey,
     BelongsTo,
-    NotNull
+    NotNull,
+    AutoIncrement,
+    PrimaryKey
 } from 'sequelize-typescript';
 import { Commentaire } from './Commentaire';
 
 @Table
 export class User extends Model<User>{
+
+    @PrimaryKey
+    @AutoIncrement
+    @Column
+    id: number;
 
     @Column
     username: string;

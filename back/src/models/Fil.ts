@@ -7,12 +7,19 @@ import {
     CreatedAt, 
     UpdatedAt,
     ForeignKey,
-    BelongsTo
+    BelongsTo,
+    PrimaryKey,
+    AutoIncrement
 } from 'sequelize-typescript';
 import { Commentaire } from './Commentaire';
 
 @Table 
 export class Fil extends Model<Fil>{
+
+    @PrimaryKey
+    @AutoIncrement
+    @Column
+    id: number;
 
     @CreatedAt
     createdAt: Date;

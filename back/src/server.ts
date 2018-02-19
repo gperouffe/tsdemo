@@ -12,6 +12,8 @@ import * as bodyParser from 'body-parser';
 import { CommentaireController } from './controllers/CommentaireController';
 import { FilController } from './controllers/FilController';
 
+import * as cors from 'cors';
+
 const sequelize =  new Sequelize({
     database: 'forumDB',
     dialect: 'sqlite',
@@ -35,12 +37,7 @@ const app = express();
 //Middlewares
 app.use(bodyParser.json());
 
-app.use(function (req, res, next) {
-    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:4200');
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
-    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
-    next();
-});
+app.use(cors({origin: 'http://localhost:4200'}));
 
 //Contrôleurs
 UserController(app);

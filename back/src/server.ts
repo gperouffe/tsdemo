@@ -37,12 +37,15 @@ const app = express();
 //Middlewares
 app.use(bodyParser.json());
 
-app.use(cors({origin: 'http://localhost:4200'}));
+app.use(cors({origin: '*'}));
 
 //Contrôleurs
-UserController(app);
-CommentaireController(app);
-FilController(app);
+let usrCtrlr = new UserController();
+usrCtrlr.setup(app);
+let commentCtrlr = new CommentaireController();
+commentCtrlr.setup(app);
+let filCtrlr = new FilController();
+filCtrlr.setup(app);
 
 app.listen(3000);
 console.log("c'est parti");

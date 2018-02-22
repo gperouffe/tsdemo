@@ -9,7 +9,6 @@
   "author": "Babeau Martin, Perouffe Guillaume",
   "license": "WTFPL",
   "dependencies": {
-    "@types/body-parser": "^1.16.8",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.2",
@@ -19,6 +18,7 @@
     "sqlite3": "^3.1.13"
   },
   "devDependencies": {
+    "@types/body-parser": "^1.16.8",
     "@types/cors": "^2.8.3",
     "@types/express": "^4.11.0"
   }

@@ -1,0 +1,10 @@
+<h1 mat-dialog-title>Titre du nouveau fil</h1>
+<div mat-dialog-content>
+  <mat-form-field>
+    <input matInput [(ngModel)]="data.titre">
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Annuler</button>
+  <button mat-button [mat-dialog-close]="data.titre" cdkFocusInitial>Ok</button>
+</div>

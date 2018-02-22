@@ -2,15 +2,19 @@ import { Injectable } from '@angular/core';
 import { Http, Response } from '@angular/http';
 import { Observable } from 'rxjs/Observable';
 import { map } from 'rxjs/operators';
+import { Globals } from '../globals';
 
 @Injectable()
-export class GenericApiService<T> {
+export class GenericApiService<T, VMT> {
 
   constructor(
-    protected http: Http
+    protected http: Http,
+    protected globals: Globals
   ) { }
 
-  protected BASE_URL = "http://localhost:3000";
+  protected get BASE_URL() {
+    return this.globals.BASE_URL;
+  } 
   protected controller = "";
 
   get(): Observable<T[]>{
@@ -23,13 +27,13 @@ export class GenericApiService<T> {
 
   getById(id: number): Observable<T>{
     return this.http
-      .get(this.BASE_URL + "/" + this.controller + '/' + id)
+      .get(this.BASE_URL + "/" + this.controller, {params: {id: id}})
       .pipe(
         map((res: Response) => res.json())
       );
   }
 
-  create(obj: T): Observable<T>{
+  create(obj: VMT): Observable<T>{
     return this.http
       .post(this.BASE_URL + "/" + this.controller, obj)
       .pipe(

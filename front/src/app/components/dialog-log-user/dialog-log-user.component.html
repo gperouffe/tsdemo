@@ -1,0 +1,9 @@
+<h1 mat-dialog-title>Entrez votre nom</h1>
+<div mat-dialog-content>
+  <mat-form-field>
+    <input matInput [(ngModel)]="data.username" required>
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button [mat-dialog-close]="data.username" cdkFocusInitial>Ok</button>
+</div>

@@ -20,8 +20,8 @@ export class GenericController<T extends Model<T>>{
             )
         });
 
-        app.get(this.root + "/:id", (req, res) => {
-            let id = req.params.id;
+        app.get(this.root, (req, res) => {
+            let id = req.query.id;
             this.data.findOne({where:{ id: id}}).then(
                 (obj: any) =>{
                     if(obj!=null)

@@ -10,8 +10,7 @@ export class UserController extends GenericController<User>{
 
     public setup(app: Express){
         super.setup(app);
-        
-        app.get(this.root, (req, res) => {
+        app.get(this.root + "/byusername", (req, res) => {
             let username = req.query.username;
             User.findOne({where:{ username: username}}).then(
                 user =>{

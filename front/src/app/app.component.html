@@ -1,20 +1,81 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    Welcome to {{ title }}!
-  </h1>
-  <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
-</div>
-<h2>Here are some links to help you start: </h2>
-<ul>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a></h2>
-  </li>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://github.com/angular/angular-cli/wiki">CLI Documentation</a></h2>
-  </li>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
-  </li>
-</ul>
+<div fxLayout="column" fxFlex [class.dark-theme]="isDarkTheme">
 
+  <mat-toolbar color="primary">
+    <mat-toolbar-row>
+      <span>Fil de Persil & Chaine de Marjolaine</span>
+
+      <span fxFlex></span>
+      <span>{{currentUser?currentUser.username:""}}</span>
+
+      <button mat-icon-button [matMenuTriggerFor]="themeMenu">
+        <mat-icon>more_vert</mat-icon>
+      </button>
+    </mat-toolbar-row>
+  </mat-toolbar>
+
+  <mat-sidenav-container fxFlex>
+    <mat-sidenav mode="side" opened disableClose="true">
+      <mat-nav-list>
+          <mat-list-item *ngIf="currentFil==null" disabled disableRipple="true">
+            <h3>Fils de discussion</h3>
+            <span fxFlex></span>
+            <button mat-mini-fab (click)="addFil($event)">
+                <mat-icon>add</mat-icon>
+            </button>
+          </mat-list-item>
+          <mat-list-item *ngIf="currentFil!=null" (click)="selectFil(currentFil.parent)">
+            <mat-icon>arrow_back</mat-icon>
+            <span fxFlex></span>
+            <button mat-mini-fab (click)="addFil($event)">
+                <mat-icon>add</mat-icon>
+            </button>
+          </mat-list-item>
+          <mat-list-item *ngIf="!fils || fils.length == 0" disabled disableRipple="true">
+            <span>Aucun fil ici!</span>
+          </mat-list-item>
+          <mat-list-item *ngFor="let fil of fils" (click)="selectFil(fil)">
+            <span>{{fil.titre}}</span>
+          </mat-list-item>
+      </mat-nav-list>
+    </mat-sidenav>
+    <div class="content">
+      <span fxFlex></span>
+      <mat-card class="tchat">
+          <mat-card-title>{{currentFil?currentFil.titre:"Général"}}</mat-card-title>
+          <mat-card-content #msgcontainer>
+              <div #msg *ngFor="let comm of commentaires" class="comment" style="margin-bottom:10px">
+                  <ng-container *ngIf="!currentUser || comm.userId != currentUser.id">
+                    <span>{{comm.user.username}}</span> <br/>
+                    <mat-chip-list>
+                        <mat-chip>{{comm.text}}</mat-chip>
+                    </mat-chip-list>
+                  </ng-container>
+                  <ng-container *ngIf=" currentUser && comm.userId == currentUser.id">
+                    <span fxFlex></span>
+                    <mat-chip-list>
+                        <mat-chip color="primary" selected="true" >{{comm.text}}</mat-chip>
+                    </mat-chip-list>
+                  </ng-container>
+              </div>
+          </mat-card-content>
+          <mat-card-footer class="content">
+            
+            <mat-form-field>
+              <input matInput placeholder="Message" [(ngModel)]="currentMessage" (keyup.enter)="sendMessage()">
+            </mat-form-field>
+            <span fxFlex></span>
+            <button mat-mini-fab (click)="sendMessage()">
+                <mat-icon>send</mat-icon>
+            </button>
+          </mat-card-footer>
+      </mat-card>
+      <span fxFlex></span>
+    </div>
+  </mat-sidenav-container>
+
+  <mat-menu #themeMenu x-position="before">
+      <button mat-menu-item (click)="logUser()">Changer d'utilisateur</button>
+      <button mat-menu-item (click)="changeSource()">Changer d'API</button>
+  </mat-menu>
+
+</div>

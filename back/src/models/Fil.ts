@@ -21,6 +21,9 @@ export class Fil extends Model<Fil>{
     @Column
     id: number;
 
+    @Column
+    titre: string;
+
     @CreatedAt
     createdAt: Date;
    

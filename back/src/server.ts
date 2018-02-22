@@ -20,7 +20,8 @@ const sequelize =  new Sequelize({
     username: 'root',
     password: '',
     storage: ':memory:',
-    modelPaths: [__dirname + '/models']
+    modelPaths: [__dirname + '/models'],
+    logging: false
 });
 
 sequelize.addModels([User, Commentaire, Fil]);

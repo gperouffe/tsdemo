@@ -71,6 +71,35 @@ Données:
 - Fils de discussions (titre, parent) : Liste, Création, Recherche par parent
 - Commentaires (texte, fil, user) : Liste, Création, Recherche par fil
 
+
+**Étape 1** : Package.json & tsconfig.json
+-------------------------------------------
+
+:Commencer:
+	
+		* npm install
+		* npm run tsc
+		* npm run start
+		
+Utilisation de tsconfig 
+
+
+**Étape 2** : Implémentation de User
+------------------------------------
+
+Utiliser un model sequelize avec annotations
+
+	* Définition des champs
+	* Annotations du modèle
+
+**Étape 3** Généricité des contrôleurs
+---------------------------------------
+
+:Objectif:
+
+	* éviter la répétition de code
+	* créer un contrôleur générique
+
 C'est déjà fini
 -------------------------------
 
@@ -97,6 +126,7 @@ Conclusion
 Ce qui n'a pas pu être abordé durant cette courte présentation :
 
 - Gestion du temps réel par WebSockets
+- Utilisation côté front avec Angular
 
 ==========================
 Merci pour votre attention

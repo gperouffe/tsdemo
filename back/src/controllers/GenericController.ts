@@ -20,19 +20,6 @@ export class GenericController<T extends Model<T>>{
             )
         });
 
-        app.get(this.root, (req, res) => {
-            let id = req.query.id;
-            this.data.findOne({where:{ id: id}}).then(
-                (obj: any) =>{
-                    if(obj!=null)
-                        res.statusCode = HTTP_CODES.OK;
-                    else
-                        res.statusCode = HTTP_CODES.NO_CONTENT;
-                    res.json(obj);
-                }
-            )
-        });
-
         app.post(this.root, (req, res) => {
             let newObj = this.data.build(req.body);
             console.log(newObj);

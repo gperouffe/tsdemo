@@ -1,134 +1,272 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R /F5 8 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
 endobj
 2 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Contents 19 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 31 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
 6 0 obj
-<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+<<
+/Contents 32 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 7 0 obj
-<< /Contents 20 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 33 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 8 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+<<
+/Contents 34 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 9 0 obj
-<< /Contents 21 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 35 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 10 0 obj
-<< /Contents 22 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 36 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 11 0 obj
-<< /Outlines 13 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog >>
+<<
+/Contents 37 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 12 0 obj
-<< /Author () /CreationDate (D:20180221161733-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180221161733-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title () /Trapped /False >>
+<<
+/Contents 38 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 13 0 obj
-<< /Count 4 /First 14 0 R /Last 17 0 R /Type /Outlines >>
+<<
+/Contents 39 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 14 0 obj
-<< /Dest [ 4 0 R /XYZ 51.35433 199.9677 0 ] /Next 15 0 R /Parent 13 0 R /Title (TYPESCRIPT) >>
+<<
+/Contents 40 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 15 0 obj
-<< /Dest [ 7 0 R /XYZ 51.35433 199.9677 0 ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Contexte) >>
+<<
+/Contents 41 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 16 0 obj
-<< /Dest [ 9 0 R /XYZ 51.35433 199.9677 0 ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (Explications) >>
+<<
+/Outlines 18 0 R /PageLabels 42 0 R /PageMode /UseNone /Pages 30 0 R /Type /Catalog
+>>
 endobj
 17 0 obj
-<< /Dest [ 10 0 R /XYZ 51.35433 199.9677 0 ] /Parent 13 0 R /Prev 16 0 R /Title (Conclusion) >>
+<<
+/Author () /CreationDate (D:20180223035710-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180223035710-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
 endobj
 18 0 obj
-<< /Count 4 /Kids [ 4 0 R 7 0 R 9 0 R 10 0 R ] /Type /Pages >>
+<<
+/Count 12 /First 19 0 R /Last 28 0 R /Type /Outlines
+>>
 endobj
 19 0 obj
-<< /Length 768 >>
+<<
+/Dest [ 4 0 R /XYZ 51.35433 202.6677 0 ] /Next 20 0 R /Parent 18 0 R /Title (TYPESCRIPT)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 6 0 R /XYZ 51.35433 202.6677 0 ] /Next 21 0 R /Parent 18 0 R /Prev 19 0 R /Title (Avant de commencer!)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 7 0 R /XYZ 51.35433 202.6677 0 ] /Next 22 0 R /Parent 18 0 R /Prev 20 0 R /Title (Javascript)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 8 0 R /XYZ 51.35433 202.6677 0 ] /Next 23 0 R /Parent 18 0 R /Prev 21 0 R /Title (Typescript)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 9 0 R /XYZ 51.35433 202.6677 0 ] /Next 24 0 R /Parent 18 0 R /Prev 22 0 R /Title (De TS \340 JS : la transpilation)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 10 0 R /XYZ 51.35433 202.6677 0 ] /Next 25 0 R /Parent 18 0 R /Prev 23 0 R /Title (Notre application d\351mo)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 11 0 R /XYZ 51.35433 202.6677 0 ] /Next 26 0 R /Parent 18 0 R /Prev 24 0 R /Title (Un premier coup d'oeil: structure de l'API)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 12 0 R /XYZ 51.35433 202.6677 0 ] /Next 27 0 R /Parent 18 0 R /Prev 25 0 R /Title (C'est d\351j\340 fini)
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 13 0 R /XYZ 51.35433 202.6677 0 ] /Next 28 0 R /Parent 18 0 R /Prev 26 0 R /Title (Conclusion)
+>>
+endobj
+28 0 obj
+<<
+/Count 1 /Dest [ 14 0 R /XYZ 51.35433 202.6677 0 ] /First 29 0 R /Last 29 0 R /Parent 18 0 R /Prev 27 0 R 
+  /Title (Conclusion)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 15 0 R /XYZ 51.35433 202.6677 0 ] /Parent 28 0 R /Title (Merci pour votre attention)
+>>
+endobj
+30 0 obj
+<<
+/Count 11 /Kids [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R ] /Type /Pages
+>>
+endobj
+31 0 obj
+<<
+/Length 508
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 51.35433 178.9677 cm
+1 0 0 1 51.35433 181.6677 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (TYPESCRIPT) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 160.9677 cm
+1 0 0 1 51.35433 163.6677 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Back end made easy) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Javascript, but stronger.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 160.9677 cm
+1 0 0 1 51.35433 163.6677 cm
 Q
 q
-1 0 0 1 0 240.1181 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
+1 0 0 1 0 243.1181 cm
 q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.13937 0 Td (Pr\351sentation:) Tj T* -9.13937 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TYPESCRIPT) Tj T* ET
-Q
-Q
-q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
 Q
 Q
 q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 109.9917 0 Td (\251 BABEAU Martin and PEROUFFE Guillaume, 2018) Tj T* -109.9917 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-20 0 obj
-<< /Length 1883 >>
+32 0 obj
+<<
+/Length 1311
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 51.35433 178.9677 cm
+1 0 0 1 51.35433 181.6677 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contexte) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Avant de commencer!) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 160.9677 cm
+1 0 0 1 51.35433 163.6677 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Voici le contexte de la cr\351ation de typescript et ce qui a motiv\351 sa cr\351ation.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Si vous souhaitez suivre la d\351mo avec nous...) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 115.7677 cm
+1 0 0 1 51.35433 130.4677 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -138,225 +276,1241 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 349.6346 36 re B*
+n -6 -6 354 24 re B*
 Q
-q
-.960784 .960784 .862745 rg
-n 0 12 18 12 re f*
-.960784 .960784 .862745 rg
-n 24 12 6 12 re f*
-.960784 .960784 .862745 rg
-n 36 12 12 12 re f*
-.960784 .960784 .862745 rg
-n 54 12 30 12 re f*
-.960784 .960784 .862745 rg
-n 84 12 6 12 re f*
-.960784 .960784 .862745 rg
-n 90 12 6 12 re f*
-.960784 .960784 .862745 rg
-n 96 12 6 12 re f*
-.960784 .960784 .862745 rg
-n 102 12 6 12 re f*
-.960784 .960784 .862745 rg
-n 24 0 30 12 re f*
-.960784 .960784 .862745 rg
-n 60 0 42 12 re f*
-BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 .501961 0 rg (for) Tj /F4 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (x) Tj 0 0 0 rg ( ) Tj /F3 10 Tf 0 .501961 0 rg (in) Tj /F4 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (range) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (7) Tj 0 0 0 rg (\)) Tj .4 .4 .4 rg (:) Tj 0 0 0 rg  T* (    ) Tj 0 0 0 rg (print) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("cute!") Tj T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 51.35433 107.7677 cm
-Q
-q
-1 0 0 1 0 240.1181 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.13937 0 Td (Pr\351sentation:) Tj T* -9.13937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (git clone https://github.com/gperouffe/tsdemo-partial.git) Tj T* ET
+Q
+Q
+Q
 Q
 Q
 q
-1 0 0 1 91.03937 3 cm
+1 0 0 1 51.35433 97.26772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 24 re B*
+Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TYPESCRIPT) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (npm install) Tj T* ET
+Q
+Q
+Q
 Q
 Q
 q
+1 0 0 1 51.35433 64.06772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (https://codeshare.io/5OOw8x) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 56.06772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
 Q
 Q
 q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 109.9917 0 Td (\251 BABEAU Martin and PEROUFFE Guillaume, 2018) Tj T* -109.9917 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-21 0 obj
-<< /Length 923 >>
+33 0 obj
+<<
+/Length 2086
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 51.35433 178.9677 cm
+1 0 0 1 51.35433 181.6677 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Explications) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Javascript) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 160.9677 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Oh, une page suppl\351mentaire !) Tj T* ET
-Q
+1 0 0 1 51.35433 169.6677 cm
 Q
 q
-1 0 0 1 51.35433 142.9677 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (rien n'est plus pratique que typescript.) Tj T* ET
-Q
+1 0 0 1 51.35433 169.6677 cm
 Q
 q
-1 0 0 1 51.35433 142.9677 cm
-Q
-q
-1 0 0 1 0 240.1181 cm
+1 0 0 1 51.35433 157.6677 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.13937 0 Td (Pr\351sentation:) Tj T* -9.13937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TYPESCRIPT) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Langage cr\351\351 en 10 jours en 1995) Tj T* ET
 Q
 Q
 q
+Q
+Q
+q
+1 0 0 1 51.35433 151.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Initialement destin\351 aux d\351butants) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 133.6677 cm
+Q
+q
+1 0 0 1 51.35433 121.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Asynchrone par nature) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 115.6677 cm
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Inspir\351 de nombreux langages, dont Java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 97.66772 cm
+Q
+q
+1 0 0 1 51.35433 85.66772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Reste encore aujourd'hui connu pour son caract\350re brouillon.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 85.66772 cm
+Q
+q
+1 0 0 1 51.35433 85.66772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
 Q
 Q
 q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 109.9917 0 Td (\251 BABEAU Martin and PEROUFFE Guillaume, 2018) Tj T* -109.9917 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-22 0 obj
-<< /Length 878 >>
+34 0 obj
+<<
+/Length 2161
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 51.35433 178.9677 cm
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Typescript) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D\351voil\351 en 2012 apr\350s 2 ans de d\351veloppement @Microsoft) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 151.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (OpenSource) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 133.6677 cm
+Q
+q
+1 0 0 1 51.35433 109.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.543465 Tw (Langage au typage fort permettant de produire un code robuste et) Tj T* 0 Tw (maintenable) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+Q
+q
+1 0 0 1 51.35433 91.66772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Permet l'utilisation de concepts de POO avanc\351s) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 85.66772 cm
+Q
+q
+1 0 0 1 51.35433 73.66772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (De plus en plus utilis\351 \(Angular, VSCode, ...\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 73.66772 cm
+Q
+q
+1 0 0 1 51.35433 73.66772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+35 0 obj
+<<
+/Length 1827
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (De TS \340 JS : la transpilation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Typescript est un langage \340 part enti\350re) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 151.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ne d\351pend d'aucune biblioth\350que JS) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 133.6677 cm
+Q
+q
+1 0 0 1 51.35433 121.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Le code TS est int\351gralement traduit en JS pur) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 115.6677 cm
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tout code \351crit TS b\351n\351ficie des avanc\351es en mati\350re de JS) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+36 0 obj
+<<
+/Length 1995
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Notre application d\351mo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 169.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mini client de messagerie) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 151.6677 cm
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Typescript de bout en bout) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 133.6677 cm
+Q
+q
+1 0 0 1 51.35433 121.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Backend Express : une API qui fournira les donn\351es en JSON) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 115.6677 cm
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Frontend Angular5) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+Q
+q
+1 0 0 1 51.35433 70.46772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (https://persil.ovh1.ec-m.fr) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 62.46772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+37 0 obj
+<<
+/Length 1670
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Un premier coup d'oeil: structure de l'API) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 163.6677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Donn\351es:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+Q
+q
+1 0 0 1 51.35433 145.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Utilisateurs \(username\) : Liste, Cr\351ation, Recherche par username) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+Q
+q
+1 0 0 1 51.35433 127.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fils de discussions \(titre, parent\) : Liste, Cr\351ation, Recherche par parent) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 121.6677 cm
+Q
+q
+1 0 0 1 51.35433 109.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Commentaires \(texte, fil, user\) : Liste, Cr\351ation, Recherche par fil) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 109.6677 cm
+Q
+q
+1 0 0 1 51.35433 109.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+38 0 obj
+<<
+/Length 827
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (C'est d\351j\340 fini) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 163.6677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Le code complet \(avec le front-end\) est disponible ici.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 130.4677 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 349.6346 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (git clone https://github.com/gperouffe/tsdemo.git) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 122.4677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+39 0 obj
+<<
+/Length 2246
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 181.6677 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Conclusion) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 148.9677 cm
+1 0 0 1 51.35433 163.6677 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .709618 Tw (On peut peut-\352tre faire ce qu'on veut en RST, mais c'est pas pratique et c'est) Tj T* 0 Tw (moche. Je pr\351f\350re LaTeX et en plus je suis un arbre) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (En r\351sum\351, nous avons vu :) Tj T* ET
 Q
 Q
 q
-1 0 0 1 0 240.1181 cm
+1 0 0 1 51.35433 157.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+Q
+q
+1 0 0 1 51.35433 145.6677 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 9.13937 0 Td (Pr\351sentation:) Tj T* -9.13937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TYPESCRIPT) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Comment d\351clarer des classes) Tj T* ET
 Q
 Q
 q
+Q
+Q
+q
+1 0 0 1 51.35433 139.6677 cm
+Q
+q
+1 0 0 1 51.35433 127.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Les exports/imports) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 121.6677 cm
+Q
+q
+1 0 0 1 51.35433 109.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Comment transpiler son code Typescript en Javascript) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 103.6677 cm
+Q
+q
+1 0 0 1 51.35433 91.66772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Les codes TS et JS sont grandement semblables) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 85.66772 cm
+Q
+q
+1 0 0 1 51.35433 73.66772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (L'utilisation de fonctionnalit\351s sp\351cifiques au TS \(annotations, g\351n\351ricit\351\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 73.66772 cm
+Q
+q
+1 0 0 1 51.35433 73.66772 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
 Q
 Q
 q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 109.9917 0 Td (\251 BABEAU Martin and PEROUFFE Guillaume, 2018) Tj T* -109.9917 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-23 0 obj
-<< /Nums [ 0 24 0 R 1 25 0 R 2 26 0 R 3 27 0 R ] >>
+40 0 obj
+<<
+/Length 947
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 181.6677 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 163.6677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ce qui n'a pas pu \352tre abord\351 durant cette courte pr\351sentation :) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+Q
+q
+1 0 0 1 51.35433 157.6677 cm
+Q
+q
+1 0 0 1 51.35433 145.6677 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion du temps r\351el par WebSockets) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 51.35433 145.6677 cm
+Q
+q
+1 0 0 1 51.35433 145.6677 cm
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+ 
+endstream
 endobj
-24 0 obj
-<< /S /D /St 1 >>
+41 0 obj
+<<
+/Length 371
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 184.6677 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Merci pour votre attention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 243.1181 cm
+q
+BT 1 0 0 1 0 2 Tm 188.4267 0 Td 12 TL /F1 10 Tf 0 0 0 rg (Web & Syst\350mes) Tj T* -188.4267 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+Q
+Q
+ 
+endstream
 endobj
-25 0 obj
-<< /S /D /St 2 >>
+42 0 obj
+<<
+/Nums [ 0 43 0 R 1 44 0 R 2 45 0 R 3 46 0 R 4 47 0 R 
+  5 48 0 R 6 49 0 R 7 50 0 R 8 51 0 R 9 52 0 R 
+  10 53 0 R ]
+>>
 endobj
-26 0 obj
-<< /S /D /St 3 >>
+43 0 obj
+<<
+/S /D /St 1
+>>
 endobj
-27 0 obj
-<< /S /D /St 4 >>
+44 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+45 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+46 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+47 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+48 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+49 0 obj
+<<
+/S /D /St 7
+>>
+endobj
+50 0 obj
+<<
+/S /D /St 8
+>>
+endobj
+51 0 obj
+<<
+/S /D /St 9
+>>
+endobj
+52 0 obj
+<<
+/S /D /St 10
+>>
+endobj
+53 0 obj
+<<
+/S /D /St 11
+>>
 endobj
 xref
-0 28
-0000000000 65535 f
-0000000075 00000 n
-0000000149 00000 n
-0000000259 00000 n
-0000000374 00000 n
-0000000583 00000 n
-0000000696 00000 n
-0000000804 00000 n
-0000001013 00000 n
-0000001131 00000 n
-0000001340 00000 n
-0000001550 00000 n
-0000001659 00000 n
-0000001921 00000 n
-0000001998 00000 n
-0000002112 00000 n
-0000002237 00000 n
-0000002366 00000 n
-0000002481 00000 n
-0000002563 00000 n
-0000003387 00000 n
-0000005327 00000 n
-0000006306 00000 n
-0000007240 00000 n
-0000007311 00000 n
-0000007348 00000 n
-0000007385 00000 n
-0000007422 00000 n
+0 54
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000548 00000 n 
+0000000653 00000 n 
+0000000858 00000 n 
+0000001063 00000 n 
+0000001268 00000 n 
+0000001473 00000 n 
+0000001679 00000 n 
+0000001885 00000 n 
+0000002091 00000 n 
+0000002297 00000 n 
+0000002503 00000 n 
+0000002709 00000 n 
+0000002815 00000 n 
+0000003073 00000 n 
+0000003148 00000 n 
+0000003259 00000 n 
+0000003392 00000 n 
+0000003516 00000 n 
+0000003640 00000 n 
+0000003786 00000 n 
+0000003926 00000 n 
+0000004083 00000 n 
+0000004219 00000 n 
+0000004344 00000 n 
+0000004495 00000 n 
+0000004610 00000 n 
+0000004740 00000 n 
+0000005299 00000 n 
+0000006662 00000 n 
+0000008800 00000 n 
+0000011013 00000 n 
+0000012892 00000 n 
+0000014939 00000 n 
+0000016661 00000 n 
+0000017539 00000 n 
+0000019837 00000 n 
+0000020835 00000 n 
+0000021257 00000 n 
+0000021395 00000 n 
+0000021429 00000 n 
+0000021463 00000 n 
+0000021497 00000 n 
+0000021531 00000 n 
+0000021565 00000 n 
+0000021599 00000 n 
+0000021633 00000 n 
+0000021667 00000 n 
+0000021701 00000 n 
+0000021736 00000 n 
 trailer
-<< /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(S^E'*\355]\023A,\307\3014~\206\260) (S^E'*\355]\023A,\307\3014~\206\260)]
- /Info 12 0 R /Root 11 0 R /Size 28 >>
+<<
+/ID 
+[<63b8a0c5b1d2e6d6b648ef3595e15cd4><63b8a0c5b1d2e6d6b648ef3595e15cd4>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 17 0 R
+/Root 16 0 R
+/Size 54
+>>
 startxref
-7459
+21771
 %%EOF

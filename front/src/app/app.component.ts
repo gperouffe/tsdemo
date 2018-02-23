@@ -176,6 +176,7 @@ export class AppComponent implements AfterViewInit {
         this.currentFil = null;
         this.currentMessage = null;
         this.refreshFils();
+        this.logUser();
       }
     });
   }
